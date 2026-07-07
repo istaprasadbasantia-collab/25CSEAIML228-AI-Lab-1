@@ -1,0 +1,2 @@
+# 25CSEAIML228-AI-Lab-1
+AI lab
