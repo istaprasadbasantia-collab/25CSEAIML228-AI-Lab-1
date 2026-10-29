@@ -1,2 +1,2 @@
-# 25CSEAIML228-AI-Lab-1
+# 25CSEAIML228-AI-Lab-Experiments
 AI lab
